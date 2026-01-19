@@ -156,7 +156,7 @@ BiLSTM consistently achieves the best generalization across all tasks, while cla
 1. Clone the repository
 
 ```bash
-git clone [<your-repo-url>](https://github.com/Anu213007/Sentiment-Emotion-Analysis)
+git clone [https://github.com/Anu213007/Sentiment-Emotion-Analysis)]
 cd Sentiment-Emotion-Analysis
 ```
 
